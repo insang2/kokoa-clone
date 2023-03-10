@@ -1,2 +1,2 @@
-# kokoa-clone
-kokoa clone html
+#Kokoa Clone 
+HTML and CSS study
